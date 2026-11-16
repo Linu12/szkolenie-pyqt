@@ -1,0 +1,20 @@
+QMainWindow {
+    background-color: #1e1e2e;
+}
+
+QStatusBar {
+    background-color: #313244;
+    color: white;
+    padding: 5px;
+}
+
+QLabel {
+    color: white;
+    background-color: #062264;
+    font-size: 30px;
+    font-weight: bold;
+    qproperty-alignment: "AlignHCenter | AlignTop";
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px;
+}
